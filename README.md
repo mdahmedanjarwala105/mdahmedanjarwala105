@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdahmedanjarwala105&label=Profile%20views&color=0e75b6&style=flat" alt="mdahmedanjarwala105" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mdahmedking6" target="blank"><img src="https://img.shields.io/twitter/follow/mdahmedking6?logo=twitter&style=for-the-badge" alt="CodeRipperKing6" /></a> </p>
+<p align="left"> <a href="https://x.com/CodeRipperKing6" target="blank"><img src="https://img.shields.io/twitter/follow/mdahmedking6?logo=twitter&style=for-the-badge" alt="CodeRipperKing6" /></a> </p>
 
 - 🌱 I’m currently learning to build **Web Apps and App Development**
 
