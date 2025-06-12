@@ -32,7 +32,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/mdahmedking6"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/coderipperking6"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mohammed-ahmed-anjarwala"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/mohammed-ahmed-anjarwala"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
   <a href="https://fb.com/mohammed ahmed anjarwala"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
