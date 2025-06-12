@@ -1,4 +1,4 @@
-<img width="1512" alt="Screenshot 2025-06-12 at 2 40 25 PM" src="https://github.com/user-attachments/assets/6050e70e-e89d-42b7-ab4c-0c353cef1d1b" />![logo](https://github.com/mdahmedanjarwala105/mdahmedanjarwala105/blob/main/MohammedAhmedProfile.png)
+![logo](https://github.com/mdahmedanjarwala105/mdahmedanjarwala105/blob/main/MohammedAhmedProfile.png)
 
 <h1 align="center">Hi 👋, I'm Mohammed Ahmed Anjarwala</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
