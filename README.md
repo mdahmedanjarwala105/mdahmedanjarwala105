@@ -23,9 +23,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently exploring: **Web Apps, App Dev, AI/ML, Blockchain**
-- 💬 Ask me about: **Computer Science, Python, Django, React, APIs**
-- 📬 Contact me: **mdahmedanjarwala105@gmail.com**
+- 🚀 I'm a full stack developer focused on building smart, scalable systems with clean architecture.
+- 🧠 Skilled in **Python, Java, Kotlin, C/C++, JavaScript, HTML, CSS, MySQL**, and frameworks like **Django, DRF, FastAPI, React, Tailwind, TensorFlow**.
+- 🔐 I work with **JWT**, integrate **OpenAI APIs**, and build with tools like **LangChain, Pinecone**, and containers using **Docker**.
+- 📊 I track and improve user experience using **PostHog** and **LogRocket**, and deploy modern apps on **Vercel** and **Render**.
+- ⚙️ Passionate about shipping polished, production-ready features across both front-end and back-end.
+- 📫 Reach me: [mdahmedanjarwala105@gmail.com](mailto:mdahmedanjarwala105@gmail.com)
+
 
 ---
 
