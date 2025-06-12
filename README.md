@@ -66,12 +66,19 @@
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdahmedanjarwala105&show_icons=true&theme=default&locale=en" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdahmedanjarwala105&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdahmedanjarwala105&theme=default&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdahmedanjarwala105&show_icons=true&count_private=true&hide=prs,issues&hide_border=true&title_color=007acc&icon_color=007acc&text_color=333&bg_color=ffffff" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdahmedanjarwala105&langs_count=8&layout=compact&hide_border=true&title_color=007acc&text_color=333&bg_color=ffffff" width="49.5%" />
+</p>
+
 
 ---
 
