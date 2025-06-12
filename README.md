@@ -114,12 +114,6 @@
 
 ---
 
----
-
-## 📊 GitHub Activity Overview
-
----
-
 ## 📈 GitHub Stats & Contributions
 
 <div align="center">
@@ -135,8 +129,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdahmedanjarwala105&layout=compact&langs_count=8&hide_border=true&title_color=007acc&text_color=24292e&bg_color=ffffff" width="45%" />
 
 </div>
-
-
 
 ---
 
