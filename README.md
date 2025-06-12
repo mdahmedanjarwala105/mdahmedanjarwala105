@@ -33,13 +33,12 @@
 
 <p align="center">
   <a href="https://twitter.com/coderipperking6"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohammed-ahmed-anjarwala"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/mohammed-ahmed-anjarwala"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://fb.com/mohammed ahmed anjarwala"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/mdahmedanjarwala105"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/mdahmedanjarwala"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/mdahmedanjarwala105/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/md_ahmed_king6"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/mohammed-ahmed-anjarwala](https://www.linkedin.com/in/mohammed-ahmed-aarif-anjarwala-90454431a/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://stackoverflow.com/users/mohammed-ahmed-anjarwala](https://stackoverflow.com/users/14225722/mohammed-ahmed-anjarwala)"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+  <a href="[https://instagram.com/mdahmedanjarwala105](https://www.instagram.com/code_ripper_king_6/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="[https://www.hackerrank.com/mdahmedanjarwala](https://www.hackerrank.com/profile/mdahmedanjarwala)"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+  <a href="[https://www.leetcode.com/mdahmedanjarwala105/](https://leetcode.com/u/mdahmedanjarwala105/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="[https://www.codechef.com/users/md_ahmed_king6](https://www.codechef.com/users/md_ahmed_king6)"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
