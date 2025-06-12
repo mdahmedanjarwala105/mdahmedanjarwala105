@@ -1,4 +1,4 @@
-![logo](https://github.com/mdahmedanjarwala105/mdahmedanjarwala105/blob/main/MohammedAhmedProfile.png)
+<img width="1512" alt="Screenshot 2025-06-12 at 2 40 25 PM" src="https://github.com/user-attachments/assets/6050e70e-e89d-42b7-ab4c-0c353cef1d1b" />![logo](https://github.com/mdahmedanjarwala105/mdahmedanjarwala105/blob/main/MohammedAhmedProfile.png)
 
 <h1 align="center">Hi 👋, I'm Mohammed Ahmed Anjarwala</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
@@ -34,21 +34,8 @@
 
 </br>
 
-## ⌨️ Typing Speed
-![Typing Speed](https://img.shields.io/badge/Typing_Speed-132_WPM-blue)
-![Accuracy](https://img.shields.io/badge/Accuracy-97%25-success)
-
-## 🔥 MonkeyType Snapshot
-<p align="left">
-  <img src="https://your-image-url.com/monkeytype.png" alt="Monkeytype Stats" width="400"/>
-</p>
-
 ## 🧮 LeetCode Contributions
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mdahmedanjarwala105?theme=light&font=baloo&ext=activity)](https://leetcode.com/mdahmedanjarwala105)
-
-## 🧠 Code Time (Weekly Coding Activity)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 </br>
 
