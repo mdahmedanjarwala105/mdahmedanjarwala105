@@ -34,4 +34,22 @@
 
 </br>
 
+## ⌨️ Typing Speed
+![Typing Speed](https://img.shields.io/badge/Typing_Speed-132_WPM-blue)
+![Accuracy](https://img.shields.io/badge/Accuracy-97%25-success)
+
+## 🔥 MonkeyType Snapshot
+<p align="left">
+  <img src="https://your-image-url.com/monkeytype.png" alt="Monkeytype Stats" width="400"/>
+</p>
+
+## 🧮 LeetCode Contributions
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mdahmedanjarwala105?theme=light&font=baloo&ext=activity)](https://leetcode.com/mdahmedanjarwala105)
+
+## 🧠 Code Time (Weekly Coding Activity)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdahmedanjarwala105&show_icons=true&locale=en&layout=compact" alt="mdahmedanjarwala105" /></p>
