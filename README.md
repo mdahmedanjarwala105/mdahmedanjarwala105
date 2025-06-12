@@ -47,7 +47,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,react,nodejs,express,django,flask,mysql,mongodb,sqlite,bootstrap,tailwind,git,github,linux,vscode,firebase,tensorflow,pandas,numpy,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,react,nodejs,express,django,flask,mysql,mongodb,sqlite,bootstrap,tailwind,git,github,linux,vscode,firebase,tensorflow,opencv,pandas,numpy" />
 </p>
 
 ---
@@ -70,14 +70,24 @@
 
 ## 📊 GitHub Activity Overview
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdahmedanjarwala105&theme=default&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdahmedanjarwala105&show_icons=true&count_private=true&hide=prs,issues&hide_border=true&title_color=007acc&icon_color=007acc&text_color=333&bg_color=ffffff" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdahmedanjarwala105&langs_count=8&layout=compact&hide_border=true&title_color=007acc&text_color=333&bg_color=ffffff" width="49.5%" />
-</p>
+## 📈 GitHub Stats & Contributions
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdahmedanjarwala105&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak" width="45%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mdahmedanjarwala105&show_icons=true&count_private=true&hide_border=true&title_color=007acc&icon_color=007acc&text_color=24292e&bg_color=ffffff" width="45%" />
+
+  </br></br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdahmedanjarwala105&layout=compact&langs_count=8&hide_border=true&title_color=007acc&text_color=24292e&bg_color=ffffff" width="45%" />
+
+</div>
+
 
 
 ---
