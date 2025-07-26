@@ -133,6 +133,6 @@
 ---
 
 <p align="center">
-  <i>“Success is the sum of small efforts, repeated day in and day out.”</i><br>
-  💬 Let's build, learn, and grow — one commit at a time.
+  <i>“Success is delusional, Achievement is Truth.”</i><br>
+  😊 The best Digital Innovator the world has ever seen.
 </p>
