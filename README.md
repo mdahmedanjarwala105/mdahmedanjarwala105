@@ -38,11 +38,11 @@
 <p align="center">
   <a href="https://twitter.com/coderipperking6"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohammed-ahmed-aarif-anjarwala-90454431a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://stackoverflow.com/users/mohammed-ahmed-anjarwala](https://stackoverflow.com/users/14225722/mohammed-ahmed-anjarwala)"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/14225722/mohammed-ahmed-anjarwala"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
   <a href="https://www.instagram.com/code_ripper_king_6/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="[https://www.hackerrank.com/mdahmedanjarwala](https://www.hackerrank.com/profile/mdahmedanjarwala)"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
-  <a href="[https://www.leetcode.com/mdahmedanjarwala105/](https://leetcode.com/u/mdahmedanjarwala105/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
-  <a href="[https://www.codechef.com/users/md_ahmed_king6](https://www.codechef.com/users/md_ahmed_king6)"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/mdahmedanjarwala"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/mdahmedanjarwala105/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/md_ahmed_king6"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
@@ -50,7 +50,6 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></a>
@@ -59,52 +58,24 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
-</p>
-
-<p align="center">
-  <!-- Frameworks / Libraries -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
   <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://user-images.githubusercontent.com/16992394/65028704-ff1f4f00-d921-11e9-8802-bc731522af44.png" alt="DRF" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
-</p>
-
-<p align="center">
-  <!-- AI/ML & APIs -->
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://jwt.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/8239148?s=200&v=4" alt="JWT" width="40" height="40"/></a>
   <a href="https://platform.openai.com/docs" target="_blank"><img src="https://avatars.githubusercontent.com/u/78911007?s=200&v=4" alt="OpenAI API" width="40" height="40"/></a>
   <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139458762?s=200&v=4" alt="LangChain" width="40" height="40"/></a>
   <a href="https://www.pinecone.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/78085508?s=200&v=4" alt="Pinecone" width="40" height="40"/></a>
-</p>
-
-<p align="center">
-  <!-- DevOps & Hosting -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/></a>
   <a href="https://render.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/44722927?s=200&v=4" alt="Render" width="40" height="40"/></a>
-</p>
-
-<p align="center">
-  <!-- Analytics & Monitoring -->
   <a href="https://posthog.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/57890861?s=200&v=4" alt="PostHog" width="40" height="40"/></a>
   <a href="https://logrocket.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/30054052?s=200&v=4" alt="LogRocket" width="40" height="40"/></a>
-</p>
-
-<p align="center">
-  <!-- Payments -->
   <a href="https://stripe.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/stripe-3.svg" alt="Stripe" width="60" height="40"/></a>
 </p>
 
-
----
-
-## 🧠 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mdahmedanjarwala105?theme=light&font=baloo&ext=activity&animation=true&border=0" alt="LeetCode Stats" />
-</p>
 
 ---
 
@@ -127,6 +98,5 @@
 ---
 
 <p align="center">
-  <i>“Success is delusional, Achievement is Truth.”</i><br>
-  😊 The best Digital Innovator the world has ever seen.
+  <i>"Success is delusional, Achievement is Truth."</i><br>
 </p>
